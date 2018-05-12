@@ -1,0 +1,32 @@
+_repo: Abraham-Lincoln-and-the-London-PunchCartoons-Comments-and-Poems-Published-in-the-London-Chari__38056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Walsh, William Shepard
+    alias: Shepard, William
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '38126'
+    url: http://www.gutenberg.org/2009/agents/38126
+description: ''
+gutenberg_issued: '2011-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Caricatures and cartoons'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Caricatures and cartoons'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+title: 'Abraham Lincoln and the London Punch
+
+  Cartoons, Comments and Poems, Published in the London Charivari, During the American
+  Civil War (1861-1865)'
+url: http://www.gutenberg.org/ebooks/38056
